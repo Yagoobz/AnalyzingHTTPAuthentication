@@ -25,5 +25,5 @@ Recognizing the inherent insecurity, I resolved to uncover the username and inco
 <br />
 <img src="https://github.com/Yagoobz/AnalyzingHTTPAuthentication/assets/145611184/5a9a4485-1923-4555-9da2-1f9eb35810f3" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://github.com/Yagoobz/AnalyzingHTTPAuthentication/assets/145611184/6f19eacd-7f9a-418b-bbe0-3a69d1452274" height="30%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yagoobz/AnalyzingHTTPAuthentication/assets/145611184/1151c7de-33f2-440c-9a44-407a215b36e3" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 
