@@ -19,5 +19,7 @@ To capture HTTP traffic, I'll set the capture filter to port 80, as HTTP typical
 <h3>Step 2: Analyze Packets in Wireshark</h3>
 All communications sent thus far have remained unencrypted. Initially, an authentication request was made, resulting in a 401 unauthorized response, indicating denial. However, in the subsequent request, a "200 OK" response was received, signifying successful authentication. This transparency poses a security risk as it exposes all actions undertaken during the process.
 <br />
-<img src="https://github.com/Yagoobz/AnalyzingHTTPAuthentication/assets/145611184/7057eed6-56bd-4a90-a25f-d2293cb50b55" height="30%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yagoobz/AnalyzingHTTPAuthentication/assets/145611184/97362f77-ad7f-424f-b351-21d6765fbffc" height="30%" width="70%" alt="Disk Sanitization Steps"/>
+
+
 
