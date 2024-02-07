@@ -1,4 +1,4 @@
-<h2>Exercise 2: Analyze a HTTP Authentication</h2>
+<h2>Exercise 2: Analyze an HTTP Authentication</h2>
 
 <h3>Objectives</h3>
 - Implement basic HTTP authentication capture in Wireshark.
