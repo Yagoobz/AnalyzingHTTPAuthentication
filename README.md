@@ -1,13 +1,13 @@
 <h2>Exercise 2: Analyze a HTTP Authentication</h2>
 
 <h3>Objectives</h3>
-- ...
+- Implement basic HTTP authentication capture in Wireshark.
 <br />
-- ...
+- Analyze captured packets to identify unencrypted communication and authentication responses.
 <br />
-- ...
+- Identify and document security risks associated with transparent transmission of sensitive information.
 <br />
-- ...
+- Propose and evaluate mitigation strategies to address identified security vulnerabilities.
 
 <h3>Step 1: Initiate a Basic HTTP Authentication</h3>
 To capture HTTP traffic, I'll set the capture filter to port 80, as HTTP typically operates on this port. Using a non-private web server accessible to the public, I'll navigate to an HTTP page where I'll input both the correct and incorrect passwords. Upon entering the correct password, "password," I anticipate receiving an authentication message. 
