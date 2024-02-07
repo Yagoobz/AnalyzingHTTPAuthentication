@@ -23,7 +23,7 @@ All communications sent thus far have remained unencrypted. Initially, an authen
 <br />
 Recognizing the inherent insecurity, I resolved to uncover the username and incorrect password transmitted to the web server. This involved clicking on the initial packet, expanding the "Hypertext Transfer Protocol" section, and further expanding "Authorization," revealing the username and incorrect password. Subsequently, repeating the process for the "200 OK" packet unveiled both the username and, this time, the correct password.
 <br />
-<img src="https://github.com/Yagoobz/AnalyzingHTTPAuthentication/assets/145611184/7057eed6-56bd-4a90-a25f-d2293cb50b55" height="30%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yagoobz/AnalyzingHTTPAuthentication/assets/145611184/5a9a4485-1923-4555-9da2-1f9eb35810f3" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://github.com/Yagoobz/AnalyzingHTTPAuthentication/assets/145611184/6f19eacd-7f9a-418b-bbe0-3a69d1452274" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 
